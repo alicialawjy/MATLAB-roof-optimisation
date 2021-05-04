@@ -21,8 +21,8 @@ This script contains the object class used in the main code **Pin-Roll-Tie_Optim
 
 #### Pin-Roll-Tie_Optimisation.m
 In this script, different configurations are iterated and analysed through FEM following the steps illustrated in the below flowchart:
+
 <img src="https://github.com/alicialawjy/MATLAB-roof-optimisation/blob/main/Screenshots/Optimisation_Flowchart.png" width="600">
-<img src="https://github.com/alicialawjy/MATLAB-roof-optimisation/blob/main/Screenshots/Optimisation_Process.png" width="600">
 
 #### Scheme Analysis
 We also had to present an evaluation of our final design in comparison to other plausible solutions, the following scripts were used to assess final costs and tonnage (ie. how much steel used) when designing the roof to different end conditions:
