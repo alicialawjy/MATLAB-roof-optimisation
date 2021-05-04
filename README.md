@@ -3,7 +3,7 @@
 My team was tasked to design a stadium in collaboration with engineering firm, ARUP, as part of our 3rd Year Group Design Project.
 The main and most critical feature of the stadium is its Arched Steel Roof Truss, spanning an incredible 105 metres and supported 20 metres above the ground. For the solution to work and be economically viable, the roof had to be highly optimised. 
 
-<img src="https://github.com/alicialawjy/MATLAB-roof-optimisation/blob/main/Screenshots/Functional_Framing.png" width="500">
+<img src="https://github.com/alicialawjy/MATLAB-roof-optimisation/blob/main/Screenshots/Functional_Framing2.png" width="500">
 The roof is comprised of 4 main components:
 
 1. Main Arch
