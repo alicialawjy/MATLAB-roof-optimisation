@@ -25,7 +25,7 @@ In this script, different configurations are iterated and analysed through FEM f
 <img src="https://github.com/alicialawjy/MATLAB-roof-optimisation/blob/main/Screenshots/Optimisation_Flowchart.png" width="600">
 
 #### Scheme Analysis
-We also had to present an evaluation of our final design in comparison to other plausible solutions, the following scripts were used to assess final costs and tonnage (ie. how much steel used) when designing the roof to different end conditions:
+We also had to present an evaluation of our final design in comparison to other plausible solutions. The following scripts were used to assess final costs and tonnage (ie. how much steel used) when designing the roof to different end conditions:
 * **Pin-Pin_Scheme.m**: for pin-pin end connections
 * **Pin-Roller_Scheme.m**: for pin-roller end connections
 * **Pin-Roller-Tie_Scheme.m**: for pin-roller end connections using a tie (the final selected scheme)
